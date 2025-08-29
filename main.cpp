@@ -3,7 +3,7 @@
 #include "AllSolveSquare.h" // TODO: build folder for .o and .exe files
 
 const int STR_MAX_LEN = 10;
-
+ 
 int main(int argc, char * argv[])
 {
     MenuMode mode = NO_MODE;
